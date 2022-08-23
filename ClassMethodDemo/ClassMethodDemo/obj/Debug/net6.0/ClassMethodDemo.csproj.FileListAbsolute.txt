@@ -1,0 +1,15 @@
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\obj\Debug\net6.0\ClassMethodDemo.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\obj\Debug\net6.0\ClassMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\obj\Debug\net6.0\ClassMethodDemo.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\obj\Debug\net6.0\ClassMethodDemo.AssemblyInfo.cs
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\obj\Debug\net6.0\ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\bin\Debug\net6.0\ClassMethodDemo.exe
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\bin\Debug\net6.0\ClassMethodDemo.deps.json
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\bin\Debug\net6.0\ClassMethodDemo.runtimeconfig.json
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\bin\Debug\net6.0\ClassMethodDemo.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\bin\Debug\net6.0\ref\ClassMethodDemo.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\bin\Debug\net6.0\ClassMethodDemo.pdb
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\obj\Debug\net6.0\ClassMethodDemo.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\obj\Debug\net6.0\ref\ClassMethodDemo.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\obj\Debug\net6.0\ClassMethodDemo.pdb
+C:\Users\Ali\Desktop\Course\HomeWorks\ClassMethodDemo\ClassMethodDemo\obj\Debug\net6.0\ClassMethodDemo.genruntimeconfig.cache
