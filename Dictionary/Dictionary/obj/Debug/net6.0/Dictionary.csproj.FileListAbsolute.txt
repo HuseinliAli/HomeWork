@@ -1,0 +1,15 @@
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.exe
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\bin\Debug\net6.0\ref\Dictionary.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+C:\Users\Ali\Desktop\Course\HomeWorks\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
