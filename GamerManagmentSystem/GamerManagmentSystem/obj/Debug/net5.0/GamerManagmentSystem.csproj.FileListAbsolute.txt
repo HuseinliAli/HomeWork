@@ -1,0 +1,16 @@
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\bin\Debug\net5.0\GamerManagmentSystem.exe
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\bin\Debug\net5.0\GamerManagmentSystem.deps.json
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\bin\Debug\net5.0\GamerManagmentSystem.runtimeconfig.json
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\bin\Debug\net5.0\GamerManagmentSystem.runtimeconfig.dev.json
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\bin\Debug\net5.0\GamerManagmentSystem.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\bin\Debug\net5.0\ref\GamerManagmentSystem.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\bin\Debug\net5.0\GamerManagmentSystem.pdb
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\obj\Debug\net5.0\GamerManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\obj\Debug\net5.0\GamerManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\obj\Debug\net5.0\GamerManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\obj\Debug\net5.0\GamerManagmentSystem.AssemblyInfo.cs
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\obj\Debug\net5.0\GamerManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\obj\Debug\net5.0\GamerManagmentSystem.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\obj\Debug\net5.0\ref\GamerManagmentSystem.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\obj\Debug\net5.0\GamerManagmentSystem.pdb
+C:\Users\Ali\Desktop\Course\HomeWorks\GamerManagmentSystem\GamerManagmentSystem\obj\Debug\net5.0\GamerManagmentSystem.genruntimeconfig.cache
