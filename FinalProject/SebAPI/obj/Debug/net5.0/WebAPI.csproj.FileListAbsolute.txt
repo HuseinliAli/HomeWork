@@ -64,3 +64,6 @@ C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\SebAPI\bin\Debug\net5.0\Busin
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\SebAPI\bin\Debug\net5.0\Core.pdb
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\SebAPI\bin\Debug\net5.0\DataAccess.pdb
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\SebAPI\bin\Debug\net5.0\Entities.pdb
+C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\SebAPI\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\SebAPI\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\SebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
