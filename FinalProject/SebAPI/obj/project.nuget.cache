@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "dsaE7KogLAV371UwP0I71mTmz3ybhTkQRoZmcfxdP65nzQ4W/jeJ9udLWkRe3H+TdSA+92Uz3fNtjv5djsDJ+Q==",
+  "dgSpecHash": "rRK8Ie7LAmXRjR50VXM2J016yqn5n7HFmwCOc8CTAHVTYGfN2KcBRic6nkEL9OzGpcPkCIMlKcBBK43jQy5bMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ali\\Desktop\\Course\\HomeWorks\\FinalProject\\SebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.1\\autofac.extras.dynamicproxy.6.0.1.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -75,6 +78,7 @@
     "C:\\Users\\Ali\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\system.diagnostics.tracesource\\4.3.0\\system.diagnostics.tracesource.4.3.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
