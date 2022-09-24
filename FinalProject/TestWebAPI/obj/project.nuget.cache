@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+ayJzMPnmPVEVwiTPsxvrxB3xx1M0pLdkt8ccwyWMdJXzqHD+rguliJx4JT9fruwOIMnMG8+j19JkvIHtGRKaw==",
+  "dgSpecHash": "QQst4QcB1ZESgOMl4URh/mKDQnBW0DUVwv+hidYuHCgplJ+HUkT4QSdoYP4BAjWKoDRznJMN3Nk4mmujz5iA8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ali\\Desktop\\Course\\HomeWorks\\FinalProject\\TestWebAPI\\TestWebAPI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Ali\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.1\\autofac.extras.dynamicproxy.6.0.1.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

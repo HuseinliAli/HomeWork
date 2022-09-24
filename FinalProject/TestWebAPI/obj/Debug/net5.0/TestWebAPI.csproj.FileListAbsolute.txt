@@ -69,3 +69,4 @@ C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\obj\Debug\net5.0\T
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\obj\Debug\net5.0\ref\TestWebAPI.dll
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\FluentValidation.dll
