@@ -9,14 +9,14 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            GetProduct();
+            //GetProduct();
             //GetCategory();
-            GetAllProductTest();
+            //GetAllProductTest();
 
 
         }
 
-        private static void GetAllProductTest()
+        /*private static void GetAllProductTest()
         {
             ProductManager productManager = new ProductManager(new EFProductDal());
 
@@ -63,6 +63,6 @@ namespace ConsoleUI
                 Console.WriteLine(result.Message);
             }
                 
-        }
+        }*/
     }
 }
