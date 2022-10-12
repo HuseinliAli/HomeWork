@@ -29,7 +29,6 @@ C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\M
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -70,3 +69,9 @@ C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\obj\Debug\net5.0\r
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ali\Desktop\Course\HomeWorks\FinalProject\TestWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
